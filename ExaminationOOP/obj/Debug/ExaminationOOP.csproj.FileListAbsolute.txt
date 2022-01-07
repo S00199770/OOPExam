@@ -1,0 +1,15 @@
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\bin\Debug\ExaminationOOP.exe.config
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\bin\Debug\ExaminationOOP.exe
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\bin\Debug\ExaminationOOP.pdb
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP.csprojAssemblyReference.cache
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\MainWindow.g.cs
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\App.g.cs
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP_MarkupCompile.cache
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP_MarkupCompile.lref
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\MainWindow.baml
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP.g.resources
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP.Properties.Resources.resources
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP.csproj.GenerateResource.cache
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP.csproj.CoreCompileInputs.cache
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP.exe
+C:\Users\S00199770\source\repos\ExaminationOOP\ExaminationOOP\obj\Debug\ExaminationOOP.pdb
